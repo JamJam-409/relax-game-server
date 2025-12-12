@@ -1,5 +1,7 @@
 # Relax Game Server Backend
 This repository contains the backend code for a slot machine game.
+*Note: Code review task file account.java is also added to this project,
+but is not part of the game backend.*
 ## Structure
 - models contains the data models for the game.
 - service contains the logic of the game, including generating grids and finding clusters
@@ -15,5 +17,3 @@ This repository contains the backend code for a slot machine game.
 ## Tested RTP
 The tested Return to Player (RTP) for this slot machine game is approximately 82% based on 1 million simulations.
 
-Note: Code review task file account.java is also added to this project,
-but is not part of the game backend.
